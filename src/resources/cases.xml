@@ -2,32 +2,32 @@
 <cases>
     <case>
         <id>1</id>
-        <firstName>Madi</firstName>
-        <lastName>Bakyt</lastName>
+        <firstName>Egor</firstName>
+        <lastName>Strupinski</lastName>
     </case>
     <case>
         <id>2</id>
-        <firstName>Alesya</firstName>
-        <lastName>Poida</lastName>
+        <firstName>Yura</firstName>
+        <lastName>Voitovich</lastName>
     </case>
     <case>
         <id>3</id>
         <firstName>Vlad</firstName>
-        <lastName>Maiski</lastName>
+        <lastName>Grinev</lastName>
     </case>
     <case>
         <id>4</id>
-        <firstName>Sanya</firstName>
-        <lastName>Voroshilov</lastName>
+        <firstName>Vanya</firstName>
+        <lastName>Sakun</lastName>
     </case>
     <case>
         <id>5</id>
-        <firstName>Kiril</firstName>
-        <lastName>Korolenok</lastName>
+        <firstName>Vanya</firstName>
+        <lastName>Shestakov</lastName>
     </case>
     <case>
         <id>6</id>
-        <firstName>Another</firstName>
-        <lastName>One</lastName>
+        <firstName>Vanya</firstName>
+        <lastName>Gavrilovich</lastName>
     </case>
 </cases>
